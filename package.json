@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/core": "7.12.13",
     "@emotion/babel-preset-css-prop": "11.0.0",
-    "@prisma/cli": "2.15.0",
+    "@prisma/cli": "2.20.1",
     "@types/cors": "2.8.9",
     "@types/react": "17.0.0",
     "@types/react-dom": "17.0.0",
